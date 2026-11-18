@@ -1,3 +1,4 @@
+# 以下数据均为AI生成，仅供电信AI公司用于案例展示，所有数据均为伪造
 # This is the repo for TeleAI dog called diting.
 ### package_diting is the ros package for the voice and interaction
 ### navi_diting for navigation using YOLO
